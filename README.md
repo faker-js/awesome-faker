@@ -66,6 +66,7 @@ Open source projects that use `@faker-js/faker` as a dependency. You can go to t
 - [wave-ui](https://github.com/antoniandre/wave-ui) - A UI framework for Vue.js (2 & 3) with only the bright side.
 - [zod-plugins](https://github.com/anatine/zod-plugins) - Plugins and utilities for Zod.
 - [zui](https://github.com/easysoft/zui) - ZUI is an HTML5 front UI framework.
+- [h37-fakestream](https://github.com/human-37/h37-fakestream) - h37-fakestream is a package that allows you to generate synthetic data for your Segment data pipeline.
 
 ## Languages
 

@@ -68,7 +68,8 @@ Open source projects that use `@faker-js/faker` as a dependency. You can go to t
 - [zod-plugins](https://github.com/anatine/zod-plugins) - Plugins and utilities for Zod.
 - [zui](https://github.com/easysoft/zui) - ZUI is an HTML5 front UI framework.
 
-## Services(SAAS or Commercial)
+## Services (SAAS or Commercial)
+
 - [Fakend - Production Ready Mock API](https://fakend.fyi) - Create mock API for dev and product demos and supercharge your dev team.
 
 ## Languages

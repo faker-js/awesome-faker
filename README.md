@@ -87,3 +87,7 @@ Open source projects that use `@faker-js/faker` as a dependency. You can go to t
 
 - [Component-driven development with Faker.js - Learn With Jason](https://www.youtube.com/watch?v=tIwG-bAkU5E&ab_channel=LearnWithJason) - 01:05:10
 - [Create Test Data Using Faker - Ryan Chenkie](https://www.youtube.com/watch?v=oPKS0FmCHA4&ab_channel=RyanChenkie) - 04:06
+
+### Blog articles
+
+- [Leveling up your custom fake data with Faker.js](https://dev.to/matthewmayer/leveling-up-your-custom-fake-data-with-fakerjs-3f7m)

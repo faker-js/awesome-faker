@@ -30,7 +30,7 @@ Open source projects that use `@faker-js/faker` as a dependency. You can go to t
 - [h37-fakestream](https://github.com/human-37/h37-fakestream) - h37-fakestream is a package that allows you to generate synthetic data for your Segment data pipeline.
 - [hyperview](https://github.com/Instawork/hyperview) - Server-driven mobile apps with React Native.
 - [ink](https://github.com/vadimdemedes/ink) - React for interactive command-line apps.
-- [interface-forge](https://github.com/tool-belt/interface-forge) - A library for mock data generation using factories. This library extends  Faker.js directly.
+- [interface-forge](https://github.com/tool-belt/interface-forge) - A library for mock data generation using factories. This library extends Faker.js directly.
 - [jackson](https://github.com/boxyhq/jackson) - Streamline your web application's authentication with Jackson, an SSO service supporting SAML and OpenID Connect protocols.
 - [json-schema-faker](https://github.com/json-schema-faker/json-schema-faker) - JSON-Schema + fake data generators.
 - [keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services.

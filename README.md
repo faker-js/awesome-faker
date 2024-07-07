@@ -19,7 +19,7 @@ Open source projects that use `@faker-js/faker` as a dependency. You can go to t
 
 - [airframe-react](https://github.com/0wczar/airframe-react) - Free Open Source High Quality Dashboard based on Bootstrap 4 & React 16.
 - [automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
-- [codeceptJS](https://github.com/codeceptjs/CodeceptJS) - Supercharged End 2 End Testing Framework for NodeJS.
+- [CodeceptJS](https://github.com/codeceptjs/CodeceptJS) - Supercharged End 2 End Testing Framework for NodeJS.
 - [data](https://github.com/mswjs/data) - Data modeling and relation library for testing JavaScript applications.
 - [electrodb](https://github.com/tywalch/electrodb) - A DynamoDB library to ease the use of modeling complex hierarchical relationships and implementing a Single Table Design while keeping your query code readable.
 - [ember-cli-mirage](https://github.com/miragejs/ember-cli-mirage) - An Ember Addon to easily add Mirage JS to your Ember app.
@@ -57,8 +57,8 @@ Open source projects that use `@faker-js/faker` as a dependency. You can go to t
 - [react-virtuoso](https://github.com/petyosi/react-virtuoso) - The most powerful virtual list component for React.
 - [rsuite-table](https://github.com/rsuite/rsuite-table) - A React table component.
 - [rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications.
-- [shopify - hydrogen](https://github.com/Shopify/hydrogen) - Hydrogen is Shopify’s stack for headless commerce.
-- [shopify - quilt](https://github.com/Shopify/quilt) - A loosely related set of packages for JavaScript/TypeScript projects at Shopify.
+- [Shopify - hydrogen](https://github.com/Shopify/hydrogen) - Hydrogen is Shopify’s stack for headless commerce.
+- [Shopify - quilt](https://github.com/Shopify/quilt) - A loosely related set of packages for JavaScript/TypeScript projects at Shopify.
 - [skeleton](https://github.com/skeletonlabs/skeleton) - The UI toolkit for Svelte and Tailwind.
 - [typeorm-fixtures](https://github.com/RobinCK/typeorm-fixtures) - Fixtures loader for typeorm.
 - [virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list (and grid) component for React and Vue.

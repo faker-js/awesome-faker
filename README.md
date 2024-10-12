@@ -25,6 +25,7 @@ Open source projects that use `@faker-js/faker` as a dependency. You can go to t
 - [ember-cli-mirage](https://github.com/miragejs/ember-cli-mirage) - An Ember Addon to easily add Mirage JS to your Ember app.
 - [eui](https://github.com/elastic/eui) - Elastic UI Framework.
 - [evergreen](https://github.com/segmentio/evergreen) - Evergreen React UI Framework by Segment.
+- [faker-server](https://github.com/Ray-D-Song/faker-server) - Mock server based on faker.js with a web interface.
 - [generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
 - [graphql-kit - graphql-faker](https://github.com/graphql-kit/graphql-faker) - Mock or extend your GraphQL API with faked data. No coding required.
 - [h37-fakestream](https://github.com/human-37/h37-fakestream) - h37-fakestream is a package that allows you to generate synthetic data for your Segment data pipeline.
@@ -68,7 +69,6 @@ Open source projects that use `@faker-js/faker` as a dependency. You can go to t
 - [wave-ui](https://github.com/antoniandre/wave-ui) - A UI framework for Vue.js (2 & 3) with only the bright side.
 - [zod-plugins](https://github.com/anatine/zod-plugins) - Plugins and utilities for Zod.
 - [zui](https://github.com/easysoft/zui) - ZUI is an HTML5 front UI framework.
-- [faker-server](https://github.com/Ray-D-Song/faker-server) - Mock server based on faker.js with a web interface.
 
 ## Services (SAAS or Commercial)
 

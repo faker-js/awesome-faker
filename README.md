@@ -69,6 +69,7 @@ Open source projects that use `@faker-js/faker` as a dependency. You can go to t
 - [wave-ui](https://github.com/antoniandre/wave-ui) - A UI framework for Vue.js (2 & 3) with only the bright side.
 - [zod-plugins](https://github.com/anatine/zod-plugins) - Plugins and utilities for Zod.
 - [zui](https://github.com/easysoft/zui) - ZUI is an HTML5 front UI framework.
+- [data-generator](https://github.com/BreisOne/data-generator) - A Next.js UI built with Shadcn and Tailwind CSS, designed as a wrapper for Faker.js to generate custom synthetic datasets. Include features to export data to CSV, JSON, and SQL.
 
 ## Services (SAAS or Commercial)
 

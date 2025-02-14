@@ -28,6 +28,7 @@ Open source projects that use `@faker-js/faker` as a dependency. You can go to t
 - [evergreen](https://github.com/segmentio/evergreen) - Evergreen React UI Framework by Segment.
 - [faker-server](https://github.com/Ray-D-Song/faker-server) - Mock server based on faker.js with a web interface.
 - [generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
+- [graphql-codegen-typescript-mock-data](https://github.com/ardeois/graphql-codegen-typescript-mock-data) - GraphQL Codegen Plugin for building mock data based on the schema.
 - [graphql-kit - graphql-faker](https://github.com/graphql-kit/graphql-faker) - Mock or extend your GraphQL API with faked data. No coding required.
 - [h37-fakestream](https://github.com/human-37/h37-fakestream) - h37-fakestream is a package that allows you to generate synthetic data for your Segment data pipeline.
 - [hyperview](https://github.com/Instawork/hyperview) - Server-driven mobile apps with React Native.

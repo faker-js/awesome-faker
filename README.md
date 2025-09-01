@@ -81,7 +81,7 @@ Open source projects that use `@faker-js/faker` as a dependency. You can go to t
 
 - [C#/F#/VB.NET - Bogus](https://github.com/bchavez/Bogus) - A port of Faker for .NET
 - [C++ - faker-cxx](https://github.com/cieslarmichal/faker-cxx) - C++ Faker library for generating fake (but realistic) data.
-- [Java - java-faker](https://github.com/DiUS/java-faker) - Brings the popular ruby faker gem to Java.
+- [Java - Datafaker](https://github.com/datafaker-net/datafaker) - Brings the popular ruby faker gem to Java.
 - [JavaScript - @faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js.
 - [Perl - Data-Faker](https://metacpan.org/dist/Data-Faker)
 - [Python - faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.

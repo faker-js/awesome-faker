@@ -64,6 +64,7 @@ Open source projects that use `@faker-js/faker` as a dependency. You can go to t
 - [Shopify - hydrogen](https://github.com/Shopify/hydrogen) - Hydrogen is Shopify’s stack for headless commerce.
 - [Shopify - quilt](https://github.com/Shopify/quilt) - A loosely related set of packages for JavaScript/TypeScript projects at Shopify.
 - [skeleton](https://github.com/skeletonlabs/skeleton) - The UI toolkit for Svelte and Tailwind.
+- [ts-mock-generator](https://github.com/ackvf/ts-mock-generator) - Generate realistically looking mock data from example JSONs or TypeScript interfaces. *([dev.to](https://dev.to/ackvf/delightful-typescript-mock-generator-generate-realistic-test-data-from-your-interfaces-aa), [app](https://ts-mock-generator.qwerty.art/))*
 - [typeorm-fixtures](https://github.com/RobinCK/typeorm-fixtures) - Fixtures loader for typeorm.
 - [virtua](https://github.com/inokawa/virtua) - A zero-config, fast and small (~3kB) virtual list (and grid) component for React and Vue.
 - [vitest](https://github.com/vitest-dev/vitest) - Next generation testing framework powered by Vite.

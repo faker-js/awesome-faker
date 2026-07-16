@@ -72,6 +72,8 @@ Open source projects that use `@faker-js/faker` as a dependency. You can go to t
 - [wave-ui](https://github.com/antoniandre/wave-ui) - A UI framework for Vue.js (2 & 3) with only the bright side.
 - [zod-plugins](https://github.com/anatine/zod-plugins) - Plugins and utilities for Zod.
 - [zui](https://github.com/easysoft/zui) - ZUI is an HTML5 front UI framework.
+- [massa-br](https://github.com/oazevedolucas/massa-br) - A zero-dependency, deterministic generator of valid Brazilian test data — CPF, CNPJ, CEP, and phone numbers, valid by construction.
+
 
 ## Services (SAAS or Commercial)
 

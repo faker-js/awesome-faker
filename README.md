@@ -76,6 +76,7 @@ Open source projects that use `@faker-js/faker` as a dependency. You can go to t
 ## Services (SAAS or Commercial)
 
 - [Fakend - Production Ready Mock API](https://fakend.fyi) - Create mock API for dev and product demos and supercharge your dev team.
+- [FakeXLab](https://fakexlab.com/) - Free web-based service for generating fake/test data — fake addresses, phone numbers, names, passwords, UUIDs, and more, with no sign-up required.
 - [Visual Data Factory](https://visualdatafactory.com) - Visual interface for modeling, generating, and populating high volumes of fake data.
 
 ## Languages
